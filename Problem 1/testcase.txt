@@ -1,0 +1,4 @@
+2 7 3 , x1 = -3 and x2 = -0.5
+6 2 7 , The roots are imaginary (complex)
+0 2 5 , value can't be zero
+2 4 2 , x = -1
